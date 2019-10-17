@@ -19,7 +19,7 @@ This text you see here is *actually*
 
 You have two way to complete your game.
 
-* In case if your're lucky and found any mage 
+* In case if your're lucky and found any mage before lvl.5
 * [Ace Editor] - awesome web-based text editor
 * [markdown-it] - Markdown parser done right. Fast and easy to extend.
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
