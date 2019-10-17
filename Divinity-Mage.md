@@ -4,22 +4,22 @@ In this patch 6 Mage Synergy may not be suggest by everyone but in some game tha
 
 #### Things you gonna need for this synergy:
 
-  - Any Mage that is NOT in the same race
+  - Any Mage that is NOT HUMAN race.
+  - The Souce
   - God of thunder
   - Any top tier pieces to carry the beginning of your game.
-  - 
-
+  - Patient
 
 > "Do big things need clam heart."
 
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
+This text you see here is *actually* 
 
-### Tech
+#### Basic Steps
 
-Dillinger uses a number of open source projects to work properly:
+You have two way to complete your game.
 
-* [AngularJS] - HTML enhanced for web apps!
+* In case if your're lucky and found any mage 
 * [Ace Editor] - awesome web-based text editor
 * [markdown-it] - Markdown parser done right. Fast and easy to extend.
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
